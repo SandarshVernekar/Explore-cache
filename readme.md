@@ -62,9 +62,7 @@ eXplore-cache is a feature-rich full-stack web application inspired by Airbnb, d
 
 # Author Information
 
-**Name:** Puneeth S  
-**Email:** puneethspunii@gmail.com  
-**LinkedIn:** [Puneeth S](https://www.linkedin.com/in/puneeth-s-186078260/)
+
 
 ## Thank You
 
